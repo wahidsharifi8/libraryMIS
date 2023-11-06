@@ -1,0 +1,11 @@
+to connect database
+
+1. install xampp corectly
+2. open xampp folder
+3. xampp/mysql/data
+4.open the database folder 
+5.copy and paste librarymis folder to step 3
+
+5.copy and run the java application using apache Netbeans
+
+goodluck!
